@@ -1,0 +1,4 @@
+ola este é o conteudo do ficheiro filetext.txt
+nice nice
+yoyo
+ok acabou
